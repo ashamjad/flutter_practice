@@ -1,3 +1,4 @@
+//this is the basic flutter code of the flutter learning process
 import 'package:flutter/material.dart';
 
 void main() => runApp(MaterialApp(
